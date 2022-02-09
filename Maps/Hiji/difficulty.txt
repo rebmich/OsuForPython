@@ -1,0 +1,6 @@
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:9
+ApproachRate:9.5
+SliderMultiplier:3.19999990463257
+SliderTickRate:1
